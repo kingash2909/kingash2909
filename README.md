@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI models.**
 
-- 👨‍💻 All of my projects are available at [https://ashishmishrafolio.pythonanywhere.com/](https://ashishmishrafolio.pythonanywhere.com/)
+- 👨‍💻 About my Portfolio and my projects are available at [https://ashishmishrafolio.pythonanywhere.com/](https://ashishmishrafolio.pythonanywhere.com/)
 
 - 📫 How to reach me **i.m.ashishhh@gmail.com**
 
